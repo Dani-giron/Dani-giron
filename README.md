@@ -4,13 +4,13 @@ Software Engineering student interested in **building well-designed web applicat
 
 ---
 
-### 🔭 Currently working on
+###  Currently working on
 - **Hostalium** — private SaaS for restaurant reservation and table management  
   (architecture, domain modeling, optimization, future AI features)
 
 ---
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 - **JavaScript**
 - **React.js**, **Node.js**
 - **Java**
@@ -19,7 +19,7 @@ Software Engineering student interested in **building well-designed web applicat
 
 ---
 
-### 🚀 Interests
+###  Interests
 - Software architecture & clean design
 - Frontend interactions and UX logic
 - Backend systems and scalability
